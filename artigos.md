@@ -1,0 +1,5 @@
+- [Circuitos Lógicos – Lógica Booleana em CI’s](https://www.filipeflop.com/blog/circuitos-logicos-logica-booleana-em-cis/)
+- [Aula I - Expressões Booleanas, Circuitos Lógicos e Tabela Verdade](https://www.youtube.com/watch?v=aYVz0l3ZMWc)
+- [Aula II - Propriedades de álgebra Booleana](https://www.youtube.com/watch?v=Wqgug5UWfU4)
+- [Aula III - Simplificação Expressões Booleanas](https://www.youtube.com/watch?v=4nVoLN7cBAw)
+- [PORTAS LÓGICAS APRENDA E NÃO ESQUEÇA NUNCA MAIS (DICA INCRÍVEL!)](https://www.youtube.com/watch?v=4tOpRh5o3QE)
